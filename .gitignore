@@ -31,3 +31,15 @@ web/epub_temp
 web/*.epub
 **/*~
 **/*/*~
+
+scala/.classpath
+
+scala/.project
+
+scala/.settings/org.scala-ide.sdt.core.prefs
+
+scala/src/main/scala/.settings/org.scala-ide.sdt.core.prefs
+
+scala/src/main/scala/.classpath
+
+scala/src/main/scala/.project
